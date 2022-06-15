@@ -1,0 +1,16 @@
+{
+  "name": "tugascodeimplementation",
+  "version": "1.0.0",
+  "description": "tugas 4 javascript",
+  "main": "divideAndSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon divideAndSort.js" 
+  },
+  "keywords": [
+    "divede",
+    "sort"
+  ],
+  "author": "m sandi maulana yahya",
+  "license": "ISC"
+}
